@@ -1,4 +1,4 @@
 # AtariAttempt
-Nothing works\n
-Everything is broken\n
+Nothing works  
+Everything is broken  
 Welcome to Hell
